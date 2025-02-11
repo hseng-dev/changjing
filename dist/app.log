@@ -1,0 +1,8 @@
+2025-02-09 14:41:00,851 - werkzeug - INFO -  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2025-02-09 14:41:20,619 - werkzeug - INFO -  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2025-02-09 14:52:50,984 - werkzeug - INFO -  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2025-02-09 14:52:53,076 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 14:52:53] "GET / HTTP/1.1" 200 -
+2025-02-09 14:52:53,327 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 14:52:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-09 14:53:23,192 - werkzeug - INFO -  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2025-02-09 14:53:25,177 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 14:53:25] "GET / HTTP/1.1" 200 -
+2025-02-09 14:53:25,427 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 14:53:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
